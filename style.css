@@ -1,10 +1,10 @@
 img {
-    width: 1024px;
+    width: 1200px;
 }
 
 body {
     text-align: center;
     font-family: 'Consolas' ;
-    background: lightblue;
+    background: orange;
     color: red;
 }
